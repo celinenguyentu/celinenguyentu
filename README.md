@@ -7,6 +7,7 @@ I am Céline Nguyen-Tu - I'm a student in Applied Mathematics interested in fina
   
 ## Projects
 
+- [Deep Neural Networks for Bermudan Option pricing](https://github.com/celinenguyentu/DNN_Bermudan_Option_Pricing)
 - [Gaussian Process via Cholesky](https://github.com/celinenguyentu/Gaussian_process_via_Cholesky)
 - [Pricing and Hedging Spreads](https://github.com/celinenguyentu/Pricing_and_Hedging_Spreads)
 - [Tic Tac Toe AI](https://github.com/celinenguyentu/TicTacToeAI)
@@ -34,6 +35,9 @@ Add technologies used for each project.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=r" />
   </a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cuda"/>
+  </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash" />
   </a>
@@ -46,17 +50,47 @@ Add technologies used for each project.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sqlite" />
   </a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver"/>
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=css"/>
+  </a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=excel"/>
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=regex" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sklearn" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas"/>
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy"/>
+  </a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib"/>
+  </a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=scipy"/>
+  </a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn"/>
   </a>
 </p>
 
@@ -75,11 +109,29 @@ Add technologies used for each project.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter"/>
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=terminal"/>
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=notion" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=obsidian" />
+  </a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gnome"/>
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux" />
