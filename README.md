@@ -2,12 +2,13 @@
 
 I am Céline Nguyen-Tu - I'm a student in Applied Mathematics interested in financial modelling, data science, artificial intelligence and programming. 
 
-* 🎓 Master's degree (final year) in Financial Engineering and Random Modelling @[Sorbonne University, Paris](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-mathematiques-et-applications/m2-parcours-3)
+* 🎓 Master's degree in Financial Engineering and Random Modelling @[Sorbonne University, Paris](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-mathematiques-et-applications/m2-parcours-3)
 * 🎓 Computer Science and Software Engineering Student @[42 School, Paris](https://42.fr/en/homepage/)
+* 🎓 Master's degree in Random Modelling @[University of Paris Cité, Paris](https://masterfinance.math.univ-paris-diderot.fr)
   
-## Projects
+## Recent projects
 
-- [Deep Neural Networks for Bermudan Option pricing](https://github.com/celinenguyentu/DNN_Bermudan_Option_Pricing)
+- [Deep Neural Networks for Bermudan Option pricing](https://github.com/celinenguyentu/Deep_Neural_Network_for_Bermudan_Option_Pricing)
 - [Gaussian Process via Cholesky](https://github.com/celinenguyentu/Gaussian_process_via_Cholesky)
 - [Pricing and Hedging Spreads](https://github.com/celinenguyentu/Pricing_and_Hedging_Spreads)
 - [Tic Tac Toe AI](https://github.com/celinenguyentu/TicTacToeAI)
