@@ -9,6 +9,8 @@ I am Céline Nguyen-Tu - I'm a student in Applied Mathematics interested in fina
 ## Recent projects
 
 - [Deep Neural Networks for Bermudan Option pricing](https://github.com/celinenguyentu/Deep_Neural_Network_for_Bermudan_Option_Pricing)
+- [Malliavin Calculus for Monte Carlo Greeks Estimation](https://github.com/celinenguyentu/Malliavin_Calculus_for_Monte_Carlo_Greeks_Estimation.git)
+- [Barrier Options and Killled Diffusions with Euler Schemes](https://github.com/celinenguyentu/Barrier_Options_and_Killed_Diffusions_with_Euler_Schemes.git)
 - [Gaussian Process via Cholesky](https://github.com/celinenguyentu/Gaussian_process_via_Cholesky)
 - [Pricing and Hedging Spreads](https://github.com/celinenguyentu/Pricing_and_Hedging_Spreads)
 - [Tic Tac Toe AI](https://github.com/celinenguyentu/TicTacToeAI)
